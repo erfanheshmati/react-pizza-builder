@@ -1,2 +1,2 @@
 # react-pizza-builder
-Awesome Pizza Customization with React.js &amp; Framer Motion
+Awesome Pizza Customization with React.js | Tailwind CSS &amp; Framer Motion
